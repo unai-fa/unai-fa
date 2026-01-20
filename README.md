@@ -1,6 +1,6 @@
 ### Hi there, I am Unai 👋
 
-I'm a PhD Student in Statistics at the LMU Munich (Germany). Currently, I am working on two projects leveraging [multi-calibration and multi-accuracy boosting](https://mlr-org.github.io/mcboost/index.html) to improve statistical targeting procedures and survey inference. Generally, interested in enhancing reliability of (causal) ML for high-stakes decision-making.
+I'm a PhD Student in Statistics at the LMU Munich (Germany).
 <!--
 **unai-fa/unai-fa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
